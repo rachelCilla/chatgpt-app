@@ -4,6 +4,7 @@ import {
   MultiChatSocket,
   MultiChatWindow,
 } from "react-chat-engine-advanced";
+import Header from "@/components/customHeader";
 // Set Up Below (steps 1-4) + Components info can be found in documentation overview on chatengine.io
 
 function Chat() {
